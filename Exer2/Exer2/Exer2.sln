@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exer2", "Exer2\Exer2.vcproj", "{B5965DD1-16F1-49BE-9355-A5E1DE9169DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5965DD1-16F1-49BE-9355-A5E1DE9169DB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B5965DD1-16F1-49BE-9355-A5E1DE9169DB}.Debug|Win32.Build.0 = Debug|Win32
+		{B5965DD1-16F1-49BE-9355-A5E1DE9169DB}.Release|Win32.ActiveCfg = Release|Win32
+		{B5965DD1-16F1-49BE-9355-A5E1DE9169DB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
